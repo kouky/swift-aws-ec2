@@ -1,11 +1,3 @@
 # swift-aws-ec2
 
-    brew install terraform
-
-    terraform init
-    
-    terraform apply
-    
-    ssh ubuntu@<ip-of-server>
-    
-    terraform destroy
+This is the code repository for blog post ["How to run Swift on EC2 with Terraform"](http://kouky.org/blog/2018/02/26/swift-aws-ec2.html)/
